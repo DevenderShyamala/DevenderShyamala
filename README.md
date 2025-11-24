@@ -62,6 +62,7 @@ I'm a passionate **Data Analyst** with strong skills in data cleaning, data visu
 ## 📫 **How to Reach Me**
 
 * **Email:** [devendershyamala190@gmail.com](mailto:devendershyamala190@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/shyamala-devender-ds56/
 * **Phone:** 7799154063
 
 ---
