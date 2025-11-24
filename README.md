@@ -18,7 +18,7 @@ I'm a passionate **Data Analyst** with strong skills in data cleaning, data visu
 
 ### **🗄️ Databases**
 
-* SQL (Joins, Subqueries, CTEs, Window Functions)
+* SQL concepts (Joins, Subqueries, CTEs, Window Functions)
 
 ### **🐍 Python Libraries**
 
@@ -31,7 +31,6 @@ I'm a passionate **Data Analyst** with strong skills in data cleaning, data visu
 ## 🌱 **Currently Learning**
 
 * Machine Learning basics
-* Advanced SQL concepts
 * DAX for Power BI
 
 ---
@@ -39,7 +38,6 @@ I'm a passionate **Data Analyst** with strong skills in data cleaning, data visu
 ## 📂 **Projects**
 
 * 📈 **Sales Dashboard (Power BI)** – Trend analysis, KPI tracking
-* 📊 **Customer Insights (Tableau)** – Retention, segmentation, region-wise behavior
 * 🐍 **Python Data Cleaning Project** – Automated preprocessing using Pandas
 
 ## 💬 **Ask Me About**
